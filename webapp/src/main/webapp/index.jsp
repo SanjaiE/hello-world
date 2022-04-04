@@ -5,15 +5,15 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name" name="Sanjai" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile number</b></label>
-    <input type="text" placeholder="Enter your personal moible number" name="mobile number" id="mobile" required>
+    <input type="text" placeholder="Enter your personal moible number" name="personal number" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter your Email id Address" name="email id" id="email" required>
+    <input type="text" placeholder="Enter your Email id Address" name="official email id" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -31,7 +31,7 @@
     <p>Already you have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Welcome  </h1>
+   <h1> Thankyou, Welcome Back  </h1>
 
   
 </form>
